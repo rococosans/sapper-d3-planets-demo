@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/luscan/sapper-d3-planets-demo/master/static/solor-system.PNG" />
 
-Everything seems to be working now. I experienced some weird caching things?
+Quick tour of Sapper and D3. I experienced some weird caching things?
 
 ## Things I noticed
 
