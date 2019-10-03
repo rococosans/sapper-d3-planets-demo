@@ -1,0 +1,37 @@
+[
+  {
+    "radius": 150,
+    "distance": 110,
+    "fill": "orange"
+  },
+  {
+    "radius": 10,
+    "distance": 260,
+    "fill": "firebrick"
+  },
+  {
+    "radius": 15,
+    "distance": 80,
+    "fill": "green"
+  },
+  {
+    "radius": 8,
+    "distance": 330,
+    "fill": "teal"
+  },
+  {
+    "radius": 4,
+    "distance": 450,
+    "fill": "#6495ed"
+  },
+  {
+    "radius": 24,
+    "distance": 530,
+    "fill": "blue"
+  },
+  {
+    "radius": 5,
+    "distance": 521,
+    "fill": "grey"
+  }
+]
