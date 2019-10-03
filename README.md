@@ -1,5 +1,7 @@
 # Sapper D3 Demo
 
+<img src="https://raw.githubusercontent.com/luscan/sapper-d3-planets-demo/master/static/solor-system.PNG" />
+
 Everything seems to be working now. I experienced some weird caching things?
 
 ## Things I noticed
